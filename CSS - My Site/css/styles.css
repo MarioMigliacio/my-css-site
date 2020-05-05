@@ -1,0 +1,52 @@
+/* color scheme
+effcef
+ccedd2
+94d3ac
+655c56
+*/
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 0px;
+}
+
+#fancy-name {
+  font-family: 'Sacramento', cursive;
+}
+
+.top-container {
+  background-color: #effcef;
+  position: relative;
+  padding-top: 100px
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+}
+
+.standard-font {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.circular {
+  border-radius: 100%;
+}
